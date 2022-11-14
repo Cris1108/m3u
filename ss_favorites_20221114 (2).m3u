@@ -1,0 +1,849 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png", Pluto TV Series
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde1317578340009b751d0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Animé & Gaming" logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png", Pluto TV Anime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png", Pluto TV Reality
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde197f6591d0009839e04/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Investigación" logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png", Pluto TV Investiga
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png", Pluto TV Misterios
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png", Pluto TV Cine Estelar
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Estilo de Vida" logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png", Pluto TV Hogar
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png", Pluto TV  Competencias
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6d935d000120009bc1132/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Kids" logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png", Pluto TV Kids
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png", Pluto TV Velocidad
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png", Pluto TV Cine Familia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png", Pluto TV Animales
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png", Pluto TV Ciencia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png", Pluto TV Naturaleza
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png", Pluto TV Aventura
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc266f80e3550009136843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png", Pluto TV Cine Suspenso
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Kids" logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png", Nick Clásico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png", Pluto TV Historia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png", Pluto TV Series Retro
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png", Telefe Hits
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png", Pluto TV  Nuestro Cine
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png", Pluto TV Vida Real
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png", MasterChef
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Deportes" logo="https://images.pluto.tv/channels/5e3ddd1a3ef73b00091d5779/colorLogoPNG.png", Fútbol Para Fans
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png", Minuto Para Ganar
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Investigación" logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png", Los archivos del FBI
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Animé & Gaming" logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png", Pluto TV Animé Acción
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Comedia" logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png", Pluto TV Humor
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png", Estrellas de Acción
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Deportes" logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png", Pluto TV Peleas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Investigación" logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png", The New Detectives
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/5ebac65911406400078b8993/colorLogoPNG.png", People are Awesome
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac65911406400078b8993/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Comedia" logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png", The Pet Collective
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Comedia" logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png", FailArmy
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png", Wipe Out
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Estilo de Vida" logo="https://images.pluto.tv/channels/5ee8d84bfb286e0007285aad/colorLogoPNG.png", Pluto TV Fashionstream
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Animé & Gaming" logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png", Naruto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Investigación" logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png", Archivos Forenses
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png", Misterios Medicos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png", Historias de Ultratumba
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Investigación" logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png", Misterios sin Resolver
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Estilo de Vida" logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG.png", Tastemade
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png", Dog el cazarrecompensas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Deportes" logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png", Lucha Libre AAA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/5f9afb01816137000737f799/colorLogoPNG.png", Nosey Escándalos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9afb01816137000737f799/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png", Kenan y Kel
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Animé & Gaming" logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png", One Piece
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Comedia" logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG.png", Comedy Central Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Paramount+ Presenta" logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png", Paramount+ Presenta
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png", Pluto TV Retro Cartoons
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Animé & Gaming" logo="https://images.pluto.tv/channels/6079be62f9f8d6000783c8a4/colorLogoPNG.png", Pluto TV Anime Héroes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079be62f9f8d6000783c8a4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png", Pluto TV Cine Clásico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Estilo de Vida" logo="https://images.pluto.tv/channels/609062295c2b8f0007199e7a/colorLogoPNG.png", Pluto TV Recetas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/6099600015e88c0007ecda25/colorLogoPNG.png", Boom
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6099600015e88c0007ecda25/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Comedia" logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png", Comedy Central South Park
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="2744" group="Deportes" logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png", Motorvision TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png", El Encantador de Perros
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Investigación" logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png", Cazador de Homicidas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png", Pluto TV Mi Obsesión Favorita
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109ab25b84d6a0007504886/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="4172" group="Deportes" logo="https://images.pluto.tv/channels/6144d313b34fbf0007107714/colorLogoPNG.png", FUEL TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d313b34fbf0007107714/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/615b9855c6b58b000724477f/colorLogoPNG.png", Iron Chef
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/615b9855c6b58b000724477f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png", MTV Shore
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61a52615cbef2500072876e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png", Pluto TV Adrenalina Freezone
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b793ccf571b80007b7a610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Comedia" logo="https://images.pluto.tv/channels/620ac814864949000724fb77/colorLogoPNG.png", Schitt's Creek
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ac814864949000724fb77/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png", Nickelodeon iCarly
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/624f4d4a4321e200073f46e0/colorLogoPNG.png", The Night Shift
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624f4d4a4321e200073f46e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Kids" logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png", Bob Esponja Pantalones Cuadrados
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/6254ab6fa74f8e0007ba6879/colorLogoPNG.png", Maestros de la Ilusión
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254ab6fa74f8e0007ba6879/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Animé & Gaming" logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png", Pluto TV E-Sports
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Animé & Gaming" logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png", ESR 24/7
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb554d87a0c480007c8dada/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Animé & Gaming" logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png", Death Note
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Comedia" logo="https://images.pluto.tv/channels/62d08af527ce19000731eaa0/colorLogoPNG.png", La Familia del Barrio
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d08af527ce19000731eaa0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Deportes" logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png", La Liga Premier | Paramount+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | AMC HD" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/dfafaad29af470741b4e9f61a0d1f09c.jpg", CINE HD | AMC HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFcgWrPu1pus1OaR2UTCCTKtA/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | CINECANAL HD" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/ba0d3c520488a08cf0d9ba8f5eb182d3.png", CINE HD | CINECANAL HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFchIWO8MeOi5prOzlvMrCVbP/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | CINEMAX (MX) HD" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/f349c2b1ba9bfbb70ee4615b1939a3a6.png", CINE HD | CINEMAX (MX) HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCa9Lf3FvJunYYsW3VpGIF-iagBy8FClHpnwn-qXpZuPZ/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | DE PELICULA" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/65b5b6137e5786a0097d7580dcee7480.png", CINE HD | DE PELICULA
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCZ89Z-21-Jc7ewDmQfqNYII_va-8wbqT-y8HXyaDBHC_/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | DE PELICULA PLUS HD" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="https://i.imgur.com/eZXf8fL.jpg", CINE HD | DE PELICULA PLUS HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFcgacND5XqsSdsr0-W-VILn5/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | STAR ACTION (Dual audio)" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/056fe92146c166978c1f294914f1e9fe.png", CINE HD | STAR ACTION (Dual audio)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFcizMOjPnezENHbSqX8-_i4y/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | STAR COMEDY ( Dual audio)" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/d4bea2bad9421cbf5757a8791b76ce4d.png", CINE HD | STAR COMEDY ( Dual audio)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCa9Lf3FvJunYYsW3VpGIF-i7Nc9uOWx3lk5zm3LDL6-v/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | STAR FUN" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/1a387fd0193c7d8deeeef9d3218aa3bf.png", CINE HD | STAR FUN
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCa9Lf3FvJunYYsW3VpGIF-gB2qG-E1jlJeIYvPD8qdUo/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | STAR FUN (Dual audio)" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/d69ab3ab8f8e0794d50de0ce548693e5.png", CINE HD | STAR FUN (Dual audio)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFchTItlGnTPVSH5JHuK60Jfb/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | STAR CHANNEL HD" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="https://imgur.com/a/QQ56fFl", CINE HD | STAR CHANNEL HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCa9Lf3FvJunYYsW3VpGIF-gyR1tc9e9sCz5_7SigxXRE/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | STAR SERIES HD" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/e74fb776cb10555f2ddcd0c2386fbdd8.png", CINE HD | STAR SERIES HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCa9Lf3FvJunYYsW3VpGIF-iIELPHQiUHUYMM5upa5EQO/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | FX (MX) FHD" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/aa6bee50eced2aca4bcfa63962662feb.jpg", CINE HD | FX (MX) FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFcgGBZPbZfSSOTbFHCj9ZLJz/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | FXM HD" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/b83c382ac192ece5a9f20755c72678ec.jpg", CINE HD | FXM HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFcg6432TXpqAlKEKHt84IPBX/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | GOLDEN PLUS HD" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/15c8caae5a195cfebe9a802c35187926.png", CINE HD | GOLDEN PLUS HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFchm8XdFsaSl7ifOJAc6qDS4/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | GOLDEN PREMIER HD" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/0d1cb7a35144bd9008065449330999ea.jpg", CINE HD | GOLDEN PREMIER HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFcg-B58xGW-_RWpqXdP9Q79c/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | HBO 2 HD" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/d0d402185a4d2a6fe7f512e0c624afc8.png", CINE HD | HBO 2 HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFcjDKZtkhG0B6hhfaoes1aTD/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | HBO FAMILY" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/88805386a04b3043f8d511e50b8c1916.png", CINE HD | HBO FAMILY
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCa9Lf3FvJunYYsW3VpGIF-g9CUQalZi0zIVh33XiABZc/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | HBO HD (LAT)" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/d125c86a8e07ea7e518160444f9bc4fd.jpg", CINE HD | HBO HD (LAT)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFch7r9ratnPkEIfVT1b3DnVj/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | HBO HD Latino" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/d125c86a8e07ea7e518160444f9bc4fd.jpg", CINE HD | HBO HD Latino
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCftqw1KUyoHVQMQ66VjbNr_0Bx0P4vmZgHeiaXqo1f_1/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | HBO Plus" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/c8d3a30b15f49d7dd7996472a13e0dd7.png", CINE HD | HBO Plus
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCa9Lf3FvJunYYsW3VpGIF-g20cjD0MQwsdAlO0KhW-UZ/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | HBO SIGNATURE" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/cd6055d89726db58b8283e800a502697.png", CINE HD | HBO SIGNATURE
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCa9Lf3FvJunYYsW3VpGIF-g9FIUWKnfwi7YXxaK7IEtW/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | HBO Pop" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/f1de6be8471f2365dfe5abff2ab70aae.png", CINE HD | HBO Pop
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCa9Lf3FvJunYYsW3VpGIF-jdJW9S92gRupQXeWcbn3my/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | MOREMAX" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/dc740d2074693e92c2b3d6c872ee5ff2.png", CINE HD | MOREMAX
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCa9Lf3FvJunYYsW3VpGIF-hDyf9X79ToDFYK9GLsm4pI/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | OUTERMAX" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/c58481ec8747c70ac16417a9e0aac4e9.png", CINE HD | OUTERMAX
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCa9Lf3FvJunYYsW3VpGIF-i0T8tbhBONwOkK96_YPVzh/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | PARAMOUNT CHANNEL HD" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/73f6a6e66de394622d82573625eca71e.jpg", CINE HD | PARAMOUNT CHANNEL HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFchYfauo9X6LcWWH9H2XcoW8/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | SHOWTIME BEYOND" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/3cfb0bc63003d6204a57544772e3c189.png", CINE HD | SHOWTIME BEYOND
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCa9Lf3FvJunYYsW3VpGIF-gc80Eike6nLq6jus2Ht2Sc/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | SHOWTIME HD" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/1cd504c9124e6c1f3987aab4750f43ad.png", CINE HD | SHOWTIME HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCa9Lf3FvJunYYsW3VpGIF-hXStbixevZS92_pzcObMzr/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | SONY HD" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/e08368d62ee551b3b712f76c67eeffbf.jpg", CINE HD | SONY HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFchLkihK-BHjtS1Cg6VMdcd6/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | SPACE HD" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/9ad23317fd3d3bdab7a5634d279c2f02.jpg", CINE HD | SPACE HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFcjKaUJhOgIGM1gi6nNvkFd8/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | STARZ BLACK" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/a42060ed224434fc2df443df41887f69.png", CINE HD | STARZ BLACK
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCfAddyB6CK5Bcb6Y_Zzs8VlvuNJw_BWAj29-NWUxV9gX/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | STARZ CINEMA HD" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/add55753552367ae70c37c3d35fcfc0c.png", CINE HD | STARZ CINEMA HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCfAddyB6CK5Bcb6Y_Zzs8VmbJjlU-MreC3urRBaeW0kO/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | Studio Universal HD" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/06cbb735a81a0f4c24e816331cceba92.png", CINE HD | Studio Universal HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCeuER4oE8zd72W7zucefuxcPZyfRuI0F7lzbJpjxFHwn/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | SyFy FHD" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/2a87ae53260f6aadbae1e707641d042f.png", CINE HD | SyFy FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCdzyrKTqRR7ROA6dQZiC_sEAfTuhrY1jnhPD1gA-6MWZ/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | TBS HD" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/24b5c960a75c38cf4b46caa87f382293.png", CINE HD | TBS HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCa9Lf3FvJunYYsW3VpGIF-h4l4gLGzCIVrSozXP9p7Qc/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | TNT HD Dual" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/e14d4b09d3c55a1b969234e6c6822912.jpg", CINE HD | TNT HD Dual
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFcgYkmbUnmPrT7aShzK5moLn/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | TNT SERIES HD" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/62274046f4640081510ae7e97123dffb.png", CINE HD | TNT SERIES HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFcgRAfq6xLmQd1NMdyJTHMcV/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | UNIVERSAL CHANNEL (MX)" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/9a948a08d28afc62256bcdd249d7fff0.png", CINE HD | UNIVERSAL CHANNEL (MX)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFcgyFpd5-RlVQBM2WXI9ODXa/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | WARNER CHANNEL HD (Dual Audio)" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/afe147236d3d4f86aace6bf131e828e2.png", CINE HD | WARNER CHANNEL HD (Dual Audio)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFciNYksKGLbO32FpDmKTrbmL/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | AZ CINEMA HD" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/64db272cd975f37071e4e7903e19a52b.jpg", CINE HD | AZ CINEMA HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFcjii-mk3u0gcmPlW4HZirrq/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | HBO Xtreme HD" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/HBO_Xtreme.png/revision/latest?cb=20200129203206", CINE HD | HBO Xtreme HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCQUgqmVexPxCIHq-puzn8_V0h_NiqtPzlHwmd2_BRsKV/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | Zee Mundo HD" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/ZeeMundo2018.png/revision/latest?cb=20180106235144", CINE HD | Zee Mundo HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCXVOzD5MZz5fQWbJ64TvHPWGt4RJZ9quou-ajBdhJp_J/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | GOLDEN PREMIER (L)" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/0d1cb7a35144bd9008065449330999ea.jpg", CINE HD | GOLDEN PREMIER (L)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCa9Lf3FvJunYYsW3VpGIF-hFr0R2TcFdSiyx_Wxv3tcS/ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | TNT (L)" group="CINE HD (ESP) / CINEMA HD (SPA)" logo="http://visi4k.site:8080/images/e14d4b09d3c55a1b969234e6c6822912.jpg", CINE HD | TNT (L)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCa9Lf3FvJunYYsW3VpGIF-jf5SnweBjjPe5wAGOgN9yU/ts
+#EXTINF:0 type="stream" channelId="-1" name="INFANTILES | BABY TV HD" group="INFANTILES / KIDS (SPA)" logo="https://i.imgur.com/Q9zizrv.png", INFANTILES | BABY TV HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFcihm9x2VEE77r1ayj2PA6sj/ts
+#EXTINF:0 type="stream" channelId="-1" name="INFANTILES | CARTOONITO (MX)" group="INFANTILES / KIDS (SPA)" logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/15081ebe-a86a-4d6b-9fc9-23d9d799b1a1/demzey3-44424c39-77ff-4ddb-bf67-752f90836c3e.png/v1/fill/w_1280,h_357,strp/cartoonito_logo__my_version__by_jared33_demzey3-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzU3IiwicGF0aCI6IlwvZlwvMTUwODFlYmUtYTg2YS00ZDZiLTlmYzktMjNkOWQ3OTliMWExXC9kZW16ZXkzLTQ0NDI0YzM5LTc3ZmYtNGRkYi1iZjY3LTc1MmY5MDgzNmMzZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3_ID-Tk2dh2CXL-_3jyv1vl7kIKE0oqVCVyonccLaV4", INFANTILES | CARTOONITO (MX)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFchNkQcKs42uaupQ4D57yL8a/ts
+#EXTINF:0 type="stream" channelId="-1" name="INFANTILES | CARTOONITO (LAT) HD" group="INFANTILES / KIDS (SPA)" logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/15081ebe-a86a-4d6b-9fc9-23d9d799b1a1/demzey3-44424c39-77ff-4ddb-bf67-752f90836c3e.png/v1/fill/w_1280,h_357,strp/cartoonito_logo__my_version__by_jared33_demzey3-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzU3IiwicGF0aCI6IlwvZlwvMTUwODFlYmUtYTg2YS00ZDZiLTlmYzktMjNkOWQ3OTliMWExXC9kZW16ZXkzLTQ0NDI0YzM5LTc3ZmYtNGRkYi1iZjY3LTc1MmY5MDgzNmMzZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3_ID-Tk2dh2CXL-_3jyv1vl7kIKE0oqVCVyonccLaV4", INFANTILES | CARTOONITO (LAT) HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCdeQDLw3sRg5JQO1txRocljisDTqvXb3NPwTBER6ivER/ts
+#EXTINF:0 type="stream" channelId="-1" name="INFANTILES | CARTOON NETWORK HD (LAT)" group="INFANTILES / KIDS (SPA)" logo="https://i.imgur.com/gEI5p2h.png", INFANTILES | CARTOON NETWORK HD (LAT)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFcghRUVxH0YzVAKVV9Fhi_j4/ts
+#EXTINF:0 type="stream" channelId="-1" name="INFANTILES | DISCOVERY KIDS HD (MX)" group="INFANTILES / KIDS (SPA)" logo="https://i.imgur.com/7tIA2Vz.png", INFANTILES | DISCOVERY KIDS HD (MX)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFchs8jHe8VeP0QczORnoomeJ/ts
+#EXTINF:0 type="stream" channelId="-1" name="INFANTILES | DISNEY CHANNEL HD" group="INFANTILES / KIDS (SPA)" logo="http://i.imgur.com/zrqUbNB.png", INFANTILES | DISNEY CHANNEL HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFcj9EtTzKKhX0qmcpurcl9Em/ts
+#EXTINF:0 type="stream" channelId="-1" name="INFANTILES | DISNEY JR (LAT)" group="INFANTILES / KIDS (SPA)" logo="https://i.imgur.com/Juqzyfn.png", INFANTILES | DISNEY JR (LAT)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCdeQDLw3sRg5JQO1txRocljDIraZAD_NxNQ1ddUjA2py/ts
+#EXTINF:0 type="stream" channelId="-1" name="INFANTILES | DISNEY JR HD (MX)" group="INFANTILES / KIDS (SPA)" logo="https://i.imgur.com/PqJsjyN.png", INFANTILES | DISNEY JR HD (MX)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFchLoaaMrzCeDVbM8w_QLJyg/ts
+#EXTINF:0 type="stream" channelId="-1" name="INFANTILES | Disney XD (MX)" group="INFANTILES / KIDS (SPA)" logo="http://visi4k.site:8080/images/b1356df9a81596d8a83e0a36fd62e537.png", INFANTILES | Disney XD (MX)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCdeQDLw3sRg5JQO1txRoclhzyU6lNh8JBGiy3nppMhWx/ts
+#EXTINF:0 type="stream" channelId="-1" name="INFANTILES | NAT GEO KIDS" group="INFANTILES / KIDS (SPA)" logo="https://i.imgur.com/GrbGNth.png", INFANTILES | NAT GEO KIDS
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFchUwtjUuEMOhr_TJkttXB3L/ts
+#EXTINF:0 type="stream" channelId="-1" name="INFANTILES | NICK 2 (MX)" group="INFANTILES / KIDS (SPA)" logo="http://visi4k.site:8080/images/99181090344cbe704ce19093e44a5b20.png", INFANTILES | NICK 2 (MX)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFciDlY4bu2ETSPUAXj1lgzT1/ts
+#EXTINF:0 type="stream" channelId="-1" name="INFANTILES | NICK 2 HD (LAT)" group="INFANTILES / KIDS (SPA)" logo="http://visi4k.site:8080/images/17abee825a115c17a2276cf3ded6c190.png", INFANTILES | NICK 2 HD (LAT)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFciuYDrKqdRkPXbQNmvQkwZ9/ts
+#EXTINF:0 type="stream" channelId="-1" name="INFANTILES | NICK JR (LAT)" group="INFANTILES / KIDS (SPA)" logo="http://visi4k.site:8080/images/0ea129fe0e08e7d819be60f3f9720dc4.png", INFANTILES | NICK JR (LAT)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFcjomoytrjpGy7_4A1f1J1nY/ts
+#EXTINF:0 type="stream" channelId="-1" name="INFANTILES | NICKELODEON HD (MX)" group="INFANTILES / KIDS (SPA)" logo="https://i.imgur.com/reP4q7Z.png", INFANTILES | NICKELODEON HD (MX)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFcgssLSqwZo_PkHuP0TaBWY3/ts
+#EXTINF:0 type="stream" channelId="-1" name="INFANTILES | NICKTOONS HD (MX)" group="INFANTILES / KIDS (SPA)" logo="https://i.imgur.com/UJrroNe.png", INFANTILES | NICKTOONS HD (MX)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCXDQq4ig_cTmqfqm9e828elLCZlUBxoQQHC859SDsO92/ts
+#EXTINF:0 type="stream" channelId="-1" name="INFANTILES | TOONCAST" group="INFANTILES / KIDS (SPA)" logo="https://i.imgur.com/VLoCdNO.png", INFANTILES | TOONCAST
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFcjBVU8hxzY4FH8q6YybKHlI/ts
+#EXTINF:0 type="stream" channelId="-1" name="INFANTILES | Cartoon Network (MX)" group="INFANTILES / KIDS (SPA)" logo="https://i.imgur.com/JBxp4W0.png", INFANTILES | Cartoon Network (MX)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCdeQDLw3sRg5JQO1txRoclhXDu7rzbDgwQ3QTR1QTjBd/ts
+#EXTINF:0 type="stream" channelId="-1" name="INFANTILES | ZOOMOO" group="INFANTILES / KIDS (SPA)" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQpReKyMcN3KsncqpV50qskusSRLbTy8z4yA&usqp=CAU", INFANTILES | ZOOMOO
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCaINvwMH3yaufzoWc7rb0eO6jBfV38GLriQhOIiTZeNM/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7  |  Teen Titans Go" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://images-na.ssl-images-amazon.com/images/I/81nRWZRLTJL._RI_.jpg", 24/7  |  Teen Titans Go
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flVa6RyM5RvQtbdGPWSQ527y/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7  |  Tom y Jerry" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://codigoespagueti.com/wp-content/uploads/2019/04/tom-y-jerry-chloe-grace-moretz-live-action-pelicula-1080x600.jpg", 24/7  |  Tom y Jerry
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flUy0qG-e2hRx_8vcVUBtTBz/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 Dragon Ball Super" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://i.pinimg.com/564x/a8/7a/3f/a87a3f775e607920bce1e6b48939d5db.jpg", 24/7 Dragon Ball Super
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCQR2QD2dD6J5n5izQotJtI61EYqlhsvyOHs3P25nz6NM/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 Dragon Ball Z" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://i.pinimg.com/564x/63/d5/41/63d541ead52b7ba6da97dc024a63be6f.jpg", 24/7 Dragon Ball Z
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCREa-oPiMDl33r96ipJhQ3v8Y-KlNYP5aZyxdeDaUBhN/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 Los Picapiedra" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://image.tmdb.org/t/p/w185/ktzefGtGUwMGAmN1Bna1oTeLSnX.jpg", 24/7 Los Picapiedra
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCcKejq8rldY1SyIMET-0iOJPk3xFc8qaEjri-0jAibqB/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 Pokémon" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://i.pinimg.com/564x/3d/76/31/3d763132c30ac83eb777293699bf60a7.jpg", 24/7 Pokémon
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCQR2QD2dD6J5n5izQotJtI7ljagn5e6GnRyWwMlpsNex/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 Scooby-Doo (p)(1080)" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://d2lv662meabn0u.cloudfront.net/boomerang/dynamic/show/00000000/914/cba96468044d1d510c7616f30fe5d653e9d70dea_1576257349.jpg", 24/7 Scooby-Doo (p)(1080)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCQR2QD2dD6J5n5izQotJtI5rNPW_WLT8VBby2pGhdDUj/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | Batman del futuro" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/6609/NOV980167._SX1280_QL80_TTD_.jpg", 24/7 | Batman del futuro
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flWEX12DQBlA-EieLMqLRUA-/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | Ben 10" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://steamcdn-a.akamaihd.net/steam/apps/703180/header.jpg?t=1574179054", 24/7 | Ben 10
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flWHQkbtSxY-0xA2p_krVFLJ/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | CANTINFLAS (M)" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://i.pinimg.com/564x/7e/32/ba/7e32bacc8433c08eac248215d750b4bb.jpg", 24/7 | CANTINFLAS (M)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCREa-oPiMDl33r96ipJhQ3vFUbrVR_c7K5NacyNUvlAz/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | LA PANTERA ROSA" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://as01.epimg.net/us/imagenes/2019/09/01/tikitakas/1567366572_278747_1567366685_noticia_normal_recorte1.jpg", 24/7 | LA PANTERA ROSA
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flX-Cxzw3nBhx3PS4BWcwWSN/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | Los Simpsons (M)" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="http://visi4k.site:8080/images/6f5cdca873153683fa5d9267db9b41ad.jpg", 24/7 | Los Simpsons (M)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCREa-oPiMDl33r96ipJhQ3uPYwWXlSgLZD3CWLTwRdq4/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | Los super campeones" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="http://visi4k.site:8080/images/876c3078bff8bfa7b6aeae19537c8506.jpg", 24/7 | Los super campeones
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCZ9xXkic0m4TtMkOHmDWORIW_7iqWxe7dTrPvwUrtReA/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | Garfield" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://i.pinimg.com/564x/5d/ac/70/5dac7058d51781b6163f21241a17a01d.jpg", 24/7 | Garfield
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCZ9xXkic0m4TtMkOHmDWORLxc8CdfwLth8kHcu6aNEK3/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | Family Guy" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="http://visi4k.site:8080/images/33cd1cdc1bb3ba684517b017759a332f.jpg", 24/7 | Family Guy
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCZ9xXkic0m4TtMkOHmDWORK3ENR4kGqAvw93YUDf_QH2/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | Dragon Ball" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://holatelcel.com/wp-content/uploads/2020/03/dragon-ball-2.jpg", 24/7 | Dragon Ball
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCZ9xXkic0m4TtMkOHmDWORKK2enwbR3vIDDwZXHlatXa/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | El Pajaro Loco" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://i.pinimg.com/originals/c5/20/b5/c520b5af14357c416470750c22f58cb7.jpg", 24/7 | El Pajaro Loco
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCZ9xXkic0m4TtMkOHmDWORIndhXZG4lf9mXRs2HloIpZ/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | Hey Arnold" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://static-1.ivoox.com/audios/2/3/1/9/2711562589132_XXL.jpg", 24/7 | Hey Arnold
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCZ9xXkic0m4TtMkOHmDWORLBEQFWsT-fPX6VR8nTVDSR/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | Infantiles" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://img.bekia.es/articulos/portada/47000/47169.jpg", 24/7 | Infantiles
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCZ9xXkic0m4TtMkOHmDWORJ7wLW8fmuchcTV8D7Sk9bG/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | Looney Tunes" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://i.pinimg.com/564x/55/3b/ea/553beaec18a7e49e105eaf60b494dc9f.jpg", 24/7 | Looney Tunes
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCZ9xXkic0m4TtMkOHmDWORJ0IghlN8e_5MV7j85V8xVn/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | Los Picapiedra" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://image.tmdb.org/t/p/w185/ktzefGtGUwMGAmN1Bna1oTeLSnX.jpg", 24/7 | Los Picapiedra
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCZ9xXkic0m4TtMkOHmDWORLUP_mUB4Svjsh6yoVrnXyI/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | One Punch Man" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://i.pinimg.com/564x/38/6a/42/386a42c0ac0548d7d64dd0b2543bfd6c.jpg", 24/7 | One Punch Man
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCZ9xXkic0m4TtMkOHmDWORJhR03Xz6Ra0u1FKVzDvr17/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | Ranma 1/2" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://i.pinimg.com/564x/e5/a4/c7/e5a4c72b560428159aa5d865af178caa.jpg", 24/7 | Ranma 1/2
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCZ9xXkic0m4TtMkOHmDWORL5-yhGTrZPwtxRXD7dWxCK/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | Yu-Gi-Oh" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://i.pinimg.com/originals/7c/16/2b/7c162b6d385180179b64c01a2cfc7cb7.jpg", 24/7 | Yu-Gi-Oh
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCZ9xXkic0m4TtMkOHmDWORJUwtvcZiXEH92nucxDcovc/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 Dave el bárbaro" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipzGJybXsUyqP78Wn6zC1XXbyRy.jpg", 24/7 Dave el bárbaro
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCQUgqmVexPxCIHq-puzn8_XZtJ9Dpp5zopeMQOCLfL2a/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 Danny Phantom" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLf77qFk54GQcmwSsox6g9JmQHu.jpg", 24/7 Danny Phantom
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCQUgqmVexPxCIHq-puzn8_UHpjtVjaGvb65hcjd4HjK6/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 La máscara" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://i.imgur.com/2fI3Xz0.jpg", 24/7 La máscara
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCQUgqmVexPxCIHq-puzn8_X1ghfnHhDpi48v80MxUh-m/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 Silvestre Y Piolín" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://es.web.img3.acsta.net/pictures/14/06/24/09/38/246217.jpg", 24/7 Silvestre Y Piolín
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCQUgqmVexPxCIHq-puzn8_UB3gFvpBe2aVMTTZH37i3z/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7  Jimmy Neutrón" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://i.pinimg.com/originals/9a/2a/6d/9a2a6d9dea4eb78911e2fedc7171234b.jpg", 24/7  Jimmy Neutrón
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCQUgqmVexPxCIHq-puzn8_UGCY1qgRCxiVAZwKmuS3PU/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 Teen Titans (ES)" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://i.pinimg.com/564x/fb/f0/47/fbf04735aa2f4025e249c6872368104c.jpg", 24/7 Teen Titans (ES)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCQUgqmVexPxCIHq-puzn8_UZECJZ67LZzmTwd_CAjEnn/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 Spider-Man ( ES)" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIBuyai7QtNVZuLEn3eeQiyb50C.jpg", 24/7 Spider-Man ( ES)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCQUgqmVexPxCIHq-puzn8_X4XgT_6vbL7P5KE4-cs-nw/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 Superman: La serie animada" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7FauEh0yeZtIPWnD3pBvG6j8sd.jpg", 24/7 Superman: La serie animada
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCQUgqmVexPxCIHq-puzn8_We79zkEZGiAQwix_ShNVOD/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 Sonic X ( ES)" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://i.pinimg.com/564x/ca/5e/4c/ca5e4c8c3da7875cb07f88f1caf27c07.jpg", 24/7 Sonic X ( ES)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCQUgqmVexPxCIHq-puzn8_VD-iPo7Be3Sy5-64aqG_o2/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 Gravity Falls (ES)" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="http://visi4k.site:8080/images/1903bcd87909cb6b1443decf6d52d082.jpg", 24/7 Gravity Falls (ES)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCQUgqmVexPxCIHq-puzn8_XYnotRMX-fEZLamoylA7qn/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 Los padrinos mágicos" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg", 24/7 Los padrinos mágicos
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUKmHezlQj-oahUnAr6P20ypvorIgMV_iiCg5Vn6Uc1V/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 futurama" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="http://158.69.24.110/posters/1528312398473.jpg", 24/7 futurama
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCQR2QD2dD6J5n5izQotJtI6bGB8C0WgfGuI76m_sIUbz/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 South Park (p)(480)" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="http://visi4k.site:8080/images/db7a123818a65b0038be6117cbcd1a7a.jpg", 24/7 South Park (p)(480)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCQR2QD2dD6J5n5izQotJtI64FS3J3p6nr3_RsMZlh3ID/ts
+#EXTINF:0 type="stream" channelId="-1" name="Super Campeones 24/7" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="http://visi4k.site:8080/images/f1b3ce942c81fba22a4ad9cedce281e0.jpg", Super Campeones 24/7
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCRTfybDJyAC2eI5cHTQqPgA29nb_uxLgRdKF6IgMLlWD/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | Bob Esponja" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="http://visi4k.site:8080/images/b7fae40f3de9fe3fdce0a9335650b3d2.jpg", 24/7 | Bob Esponja
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCZ9xXkic0m4TtMkOHmDWORJhU3ESiwb99PFrOQZLRwLG/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | Dragon Ball GT" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="http://visi4k.site:8080/images/975ce527c0ffc87a1058ac34da9caabc.jpg", 24/7 | Dragon Ball GT
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCZ9xXkic0m4TtMkOHmDWORIj2Gwl9v3ieZHJAbsh1JWJ/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 |  Dragon Ball Z - Saga de Freezer" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="http://visi4k.site:8080/images/a6f062d982ede881180798c7f1d9f8e3.jpg", 24/7 |  Dragon Ball Z - Saga de Freezer
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCZ9xXkic0m4TtMkOHmDWORIphm7RcXycnm4kxrX6JuOZ/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 Coraje" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="http://visi4k.site:8080/images/2d99b453a0c76e7bde4b47f47287f0a4.jpg", 24/7 Coraje
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCQUgqmVexPxCIHq-puzn8_V27ihoojp-hel5lWVAL3WD/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 Naruto" group="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)" logo="http://visi4k.site:8080/images/3b3816f5ed13d530c7f473a4670360bf.jpg", 24/7 Naruto
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCcKejq8rldY1SyIMET-0iOIoZTBNk1wvTFOoK00asJsG/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | SHREK" group="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)" logo="https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/88/3b/de/883bdec3-4072-841d-e2d0-6609fdc19544/mzm.jqiredrw.lsr/268x0w.jpg", 24/7 | SHREK
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCdzyrKTqRR7ROA6dQZiC_sGTSiYDGWbjayGm3oIaP_Ae/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | TOY STORY" group="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)" logo="http://158.69.24.110/posters/1549994138383.jpg", 24/7 | TOY STORY
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCdzyrKTqRR7ROA6dQZiC_sEP2_msKxNCFyVQyJKDfDK5/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | El chapulin colorado" group="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)" logo="https://i.pinimg.com/564x/a9/fd/d1/a9fdd1f6ec9c99c4ebeed7ae7d0db0db.jpg", 24/7 | El chapulin colorado
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCZ9xXkic0m4TtMkOHmDWORK8RfuW6Vzz6_b81oEjt8gU/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | Chespirito" group="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)" logo="https://i.pinimg.com/564x/a9/86/e8/a986e82bca54086a2c11ae30fd76c32a.jpg", 24/7 | Chespirito
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCZ9xXkic0m4TtMkOHmDWORIRVHz8ygnsK2XjUH8hpefS/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | Smallville" group="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)" logo="https://i.pinimg.com/564x/79/77/11/7977113dc9a83c2f319de188a233fe59.jpg", 24/7 | Smallville
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCZ9xXkic0m4TtMkOHmDWORLmcbo-r_hpfL-Avf-374y3/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | The Big Bang Theory" group="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)" logo="https://i.pinimg.com/236x/c3/88/f5/c388f5d35819f5c8f16d3c0939079ac0.jpg", 24/7 | The Big Bang Theory
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCZ9xXkic0m4TtMkOHmDWORLXW_SEb5TQmDk-2EmIYx6I/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 El Chavo del Ocho" group="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)" logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQFO5cPoYfKrACayWItroAi1Wdp.jpg", 24/7 El Chavo del Ocho
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCV6Hfl95KrDckqndSa3V5SWwEUdMfvYlAAmNS-ZX2klW/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 Películas infantiles" group="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)" logo="https://i.imgur.com/IZSvtW8.jpg", 24/7 Películas infantiles
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCV6Hfl95KrDckqndSa3V5SXJKF8gBZq5EcyrhsmFX1HP/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 Películas de animación" group="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)" logo="https://es.web.img3.acsta.net/newsv7/20/02/05/15/41/1959378.jpg", 24/7 Películas de animación
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCV6Hfl95KrDckqndSa3V5SX2iX1RpRMxlOoVSUINLUQs/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 Películas de Terror" group="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)" logo="https://i.pinimg.com/564x/0c/66/06/0c6606b05f96ef9e0b8cd41ba449febd.jpg", 24/7 Películas de Terror
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCe5hVAZ-w6MukFlUhwnD_EzVFzXCwnoPq10lh_7himZf/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 Películas de acción" group="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)" logo="https://i.imgur.com/ZeR2m7w.jpg", 24/7 Películas de acción
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCe5hVAZ-w6MukFlUhwnD_Ex2EIrc8RHOZjnF8BCQLWsk/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | Cantiflas" group="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)" logo="https://i.pinimg.com/originals/5e/03/a0/5e03a0358704ccfd4a967af745a1dc7e.jpg", 24/7 | Cantiflas
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCZ9xXkic0m4TtMkOHmDWORJifi1EOLj19kFZ-oyPbpXQ/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 La casa de papel" group="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)" logo="http://visi4k.site:8080/images/982c66f9727a9c4358ad412f17e02ba6.jpg", 24/7 La casa de papel
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCQUgqmVexPxCIHq-puzn8_WbhWxltDvbUb9LxEd48Gqb/ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 Breaking Bad" group="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)" logo="http://visi4k.site:8080/images/ea53db630b6e195a375e37053b80ad85.jpg", 24/7 Breaking Bad
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCQUgqmVexPxCIHq-puzn8_VlANfsenAPoFp70pcdl9z-/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD  | Fox Sports 1 Premium HD" group="DEPORTES HD / SPORTS HD (SPA)" logo="http://visi4k.site:8080/images/edfa6757a2e6df3330f9ea2bc2c7aa70.png", DEPORTES HD  | Fox Sports 1 Premium HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCd4CFTYVyxetA1ld6mo870kmxQ6fsK9Mk0Q89t6xierp/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | TUDN HD" group="DEPORTES HD / SPORTS HD (SPA)" logo="http://visi4k.site:8080/images/NHF8eDk4WLgRka8MP-k5ZtaPRf20DB7Z8qnZ2KFj-F0.png", DEPORTES HD | TUDN HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVa050dJyQwvSAgmpXlyskatuVvYz-RLtHQotmlF8kj5/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | AFIZZIONADOS HD" group="DEPORTES HD / SPORTS HD (SPA)" logo="http://visi4k.site:8080/images/48483c50de3f0592ace7dc6dbcbcdf0b.jpg", DEPORTES HD | AFIZZIONADOS HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCcUGdAHcWCGH4ffiivo6LF4KiTpTSExDbPqM_eF4qBNa/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | AYM SPORTS" group="DEPORTES HD / SPORTS HD (SPA)" logo="https://vignette.wikia.nocookie.net/liga-mx/images/6/6c/AYMSports17Logo.png/revision/latest?cb=20170917052727&path-prefix=es", DEPORTES HD | AYM SPORTS
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flUaJxciYtl5lp-wAh6v2c41/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | Bein Sports Ñ HD" group="DEPORTES HD / SPORTS HD (SPA)" logo="http://visi4k.site:8080/images/8d3c9ae4362687a0705ca9631736c123.jpg", DEPORTES HD | Bein Sports Ñ HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCZ9xXkic0m4TtMkOHmDWORLiMalZr8IKyVeNzGRLZXWi/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | Bein Sports Ñ FHD" group="DEPORTES HD / SPORTS HD (SPA)" logo="http://visi4k.site:8080/images/8d3c9ae4362687a0705ca9631736c123.jpg", DEPORTES HD | Bein Sports Ñ FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCdDCmmTu9OzxJd2x4NrMyKxq8MZ7smxKPPxkSPqvpIHC/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | CLARO SPORTS SUR (L)" group="DEPORTES HD / SPORTS HD (SPA)" logo="http://visi4k.site:8080/images/77d9ccddbf5811854c89360e9285785b.png", DEPORTES HD | CLARO SPORTS SUR (L)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCcUGdAHcWCGH4ffiivo6LF77T1jIX4tej6CM8e6PxZDi/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | CLARO SPORTS MX HD" group="DEPORTES HD / SPORTS HD (SPA)" logo="http://visi4k.site:8080/images/77d9ccddbf5811854c89360e9285785b.png", DEPORTES HD | CLARO SPORTS MX HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCRxiSOaeld_gjXOtvf0KeEB3qp_6eacJwg_XiulizE_e/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | DIRECTV SPORTS 2 FHD" group="DEPORTES HD / SPORTS HD (SPA)" logo="http://visi4k.site:8080/images/5ad82a47d5347ae486bbc51f8f4ba364.png", DEPORTES HD | DIRECTV SPORTS 2 FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flVqN7-OYNzBB8L-TH3FE9Wg/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | ESPN 1 MEXICO FHD" group="DEPORTES HD / SPORTS HD (SPA)" logo="http://visi4k.site:8080/images/f5b09f2c23bef1ac767b3b40a734a4a0.png", DEPORTES HD | ESPN 1 MEXICO FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flUi1AL31RQhOJcc36zsWEGq/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | ESPN 2 FHD" group="DEPORTES HD / SPORTS HD (SPA)" logo="http://visi4k.site:8080/images/5e55d598e0d894dc4a33c43b51d5932d.png", DEPORTES HD | ESPN 2 FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flVeAUY60Mhu8imqccsthKQv/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | ESPN 3 FHD" group="DEPORTES HD / SPORTS HD (SPA)" logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png", DEPORTES HD | ESPN 3 FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flXXwfR6vkoGail8aVinlbAU/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | ESPN DEPORTES FHD" group="DEPORTES HD / SPORTS HD (SPA)" logo="http://visi4k.site:8080/images/ac1d8e9fcea881e47e0b99cce44fe92e.png", DEPORTES HD | ESPN DEPORTES FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flV36ufj1wCUBlgibYWwOeTC/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | ESPN U FHD" group="DEPORTES HD / SPORTS HD (SPA)" logo="http://visi4k.site:8080/images/731c52b87dec980d379ee64aed4771d0.png", DEPORTES HD | ESPN U FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flXGjwT-ylhxMFFmDI2JUGuk/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | FOX DEPORTES FHD" group="DEPORTES HD / SPORTS HD (SPA)" logo="http://visi4k.site:8080/images/1d2e198479f7e23e6382f2d1c1e9d56a.png", DEPORTES HD | FOX DEPORTES FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flW8D0ZSVwkObnoNpKm1CGDP/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | Fox Deportes HD" group="DEPORTES HD / SPORTS HD (SPA)" logo="http://visi4k.site:8080/images/1d2e198479f7e23e6382f2d1c1e9d56a.png", DEPORTES HD | Fox Deportes HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCa9Lf3FvJunYYsW3VpGIF-i_yI7Z1sp6TgyNUeF73-wh/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | Fox Sports 1 (COL) FHD" group="DEPORTES HD / SPORTS HD (SPA)" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png", DEPORTES HD | Fox Sports 1 (COL) FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCZTVoZDUCHNUyXmD4OsWarrzYYKSv22QFEzkgLWQpvZ0/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | ESPN 4 FHD" group="DEPORTES HD / SPORTS HD (SPA)" logo="http://visi4k.site:8080/images/a65bd3402b7f1cae1ca8332629f31bae.png", DEPORTES HD | ESPN 4 FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flXrXWf_Co3DwqIIGcIIfayn/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | FOX SPORTS 2 FHD" group="DEPORTES HD / SPORTS HD (SPA)" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/640px-2015_Fox_sports_logo.svg.png", DEPORTES HD | FOX SPORTS 2 FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flW90N6FRWVVGd5QxVAnlOEa/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | FOX SPORTS 3 FHD" group="DEPORTES HD / SPORTS HD (SPA)" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png", DEPORTES HD | FOX SPORTS 3 FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flX1EfYsLPDCnIFGtb8x7CCI/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | FOX SPORTS PREMIUM" group="DEPORTES HD / SPORTS HD (SPA)" logo="http://visi4k.site:8080/images/dfdb6b2c21bfba7ba7ba24bf9b0c4c7b.png", DEPORTES HD | FOX SPORTS PREMIUM
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVIxSAreZ2WRvBnWCESQjNf50wCcxeITH7P8OqLS15dY/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | GOL TV INTERNACIONAL" group="DEPORTES HD / SPORTS HD (SPA)" logo="http://visi4k.site:8080/images/7d6928d44babb79077981775da6451d8.png", DEPORTES HD | GOL TV INTERNACIONAL
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flWK9ik4GYF83lLdCIISQnT9/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | MOVISTAR DEPORTES" group="DEPORTES HD / SPORTS HD (SPA)" logo="http://visi4k.site:8080/images/bf19c80d6905259a3144617936459198.png", DEPORTES HD | MOVISTAR DEPORTES
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCdeQDLw3sRg5JQO1txRocljVRWWYWUR6pOL2G7R4W0iA/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | TVC DEPORTES MEXICO" group="DEPORTES HD / SPORTS HD (SPA)" logo="https://www.seekpng.com/png/detail/297-2976535_deportes-tvc-deportes-2-logo.png", DEPORTES HD | TVC DEPORTES MEXICO
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flXL1n9W4wfXDCzDhZZG2d5p/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | SKY SPORTS BUNDESLIGA" group="DEPORTES HD / SPORTS HD (SPA)" logo="http://visi4k.site:8080/images/19c93505afd68561f143fe968082b328.jpg", DEPORTES HD | SKY SPORTS BUNDESLIGA
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCQR2QD2dD6J5n5izQotJtI5oUNYmoaX-Tyb4r5zErjl3/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | RED BULL TV" group="DEPORTES HD / SPORTS HD (SPA)" logo="https://agnituslife.com/wp-content/uploads/2018/03/Red-Bull-TV-810x579.jpg", DEPORTES HD | RED BULL TV
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCQUgqmVexPxCIHq-puzn8_VCivj0rpaA3Kayvsoo6Zf2/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD |  UFC TV" group="DEPORTES HD / SPORTS HD (SPA)", DEPORTES HD |  UFC TV
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCSAvXJv87l0YO0J1POnoTAUaCX3NIlvbrCwxoLGty2KT/ts
+#EXTINF:0 type="favorites" channelId="-1" name="Deportes HD | ESPN (720)" group="DEPORTES HD / SPORTS HD (SPA)" logo="http://playlistplus.site:8080/images/7f85e7d82b8454267c58be619a7baf56.png", Deportes HD | ESPN (720)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCd4CFTYVyxetA1ld6mo870mATJsHa4VpLh-0Q0EQrnHB/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD   | BEIN SPORTS (720)" group="DEPORTES HD / SPORTS HD (SPA)" logo="http://visi4k.site:8080/images/99a4f97961728844d39ea77d62f6eb5b.jpg", DEPORTES HD   | BEIN SPORTS (720)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCd4CFTYVyxetA1ld6mo870lELqwb9SCajyAKjoe2UDZq/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | ESPN Argentina" group="DEPORTES HD / SPORTS HD (SPA)" logo="http://visi4k.site:8080/images/f5b09f2c23bef1ac767b3b40a734a4a0.png", DEPORTES HD | ESPN Argentina
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCT0uvH7CTZNN-xh7ZlISAjFKhLKQEflmqiz6lccJo92K/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | ESPN 1 FHD (COLOMBIA)" group="DEPORTES HD / SPORTS HD (SPA)" logo="http://visi4k.site:8080/images/fc4c659ab9b34bf735d4fef4743cd357.png", DEPORTES HD | ESPN 1 FHD (COLOMBIA)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCbWKQobjRPji2iwresSsrrUHt7rd-pmuI_RJJtkNyXNz/ts
+#EXTINF:0 type="favorites" channelId="-1" name="Deportes HD | Claro Sports 1 HD" group="DEPORTES HD / SPORTS HD (SPA)", Deportes HD | Claro Sports 1 HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFcgxySpU2FTuk6uuEkvzpHIS/ts
+#EXTINF:0 type="favorites" channelId="-1" name="Deportes HD | Claro Sports 2 HD" group="DEPORTES HD / SPORTS HD (SPA)", Deportes HD | Claro Sports 2 HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFchXiJN0wRHHQL8k0NtGvwL8/ts
+#EXTINF:0 type="favorites" channelId="-1" name="Deportes HD | Claro Sports 3 HD" group="DEPORTES HD / SPORTS HD (SPA)", Deportes HD | Claro Sports 3 HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFcjPDKUIPj_X4WRbT_AufvOF/ts
+#EXTINF:0 type="favorites" channelId="-1" name="Deportes HD | Claro Sports 4 HD" group="DEPORTES HD / SPORTS HD (SPA)", Deportes HD | Claro Sports 4 HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFchBJCce-OkVJwFJB6Z_eY2T/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | BEIN EXTRA ESPAÑOL" group="DEPORTES HD / SPORTS HD (SPA)" logo="http://yt3.ggpht.com/WnDHopDHtXhZCskwymsLRmF7ME1DmN_kwRyTyiMgFqlYv79LKjfanMIR4_OMRO44MMQwTsxIgriV=ns-nd", DEPORTES HD | BEIN EXTRA ESPAÑOL
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCa9Lf3FvJunYYsW3VpGIF-gO_tUMioOU3BAi1zt6w3n6/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | FOX SPORTS PREMIUM MEX" group="DEPORTES HD / SPORTS HD (SPA)" logo="http://visi4k.site:8080/images/8c5b9689091bebc73eeed7b43d5ba18f.png", DEPORTES HD | FOX SPORTS PREMIUM MEX
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flVSWVMZywFbCuFz1PzWC-zU/ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | DIRECTV SPORTS FHD" group="DEPORTES HD / SPORTS HD (SPA)" logo="http://visi4k.site:8080/images/cf7e1a2ef1f43c236edc1892386e7201.png", DEPORTES HD | DIRECTV SPORTS FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flVZejRdIbqAodNs_2u93p85/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | HISTORY 2 HD" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/3cc4f2e17cfd403c69aa7a65ddb4b771.png", PREMIUM | HISTORY 2 HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCefxHMCcZU6iy2kZSMKmCTQYP_smeWRKmZ2LMRQw86WA/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | A&E HD" group="PREMIUM HD (SPA)" logo="https://i.imgur.com/vCjL5HT.gif", PREMIUM | A&E HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCbUFARHmMyxJ2e1lpL6fg57zY8hU_Nqrlk55ULWMlYLP/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | A&E HD Latino" group="PREMIUM HD (SPA)" logo="https://i.imgur.com/vCjL5HT.gif", PREMIUM | A&E HD Latino
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCbUFARHmMyxJ2e1lpL6fg57_Cjj0QycAMBJ2zD2ZsqxA/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | ANIMAL PLANET LATINO HD" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/2c25a502c7683ba7aed55c8b7ec68f3e.png", PREMIUM | ANIMAL PLANET LATINO HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrTsEJDkHdjB8K3XB8jMOKhdNYNLBpCBQbi_nG3dOEj/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | ANIMAL PLANET HD" group="PREMIUM HD (SPA)" logo="https://i.imgur.com/2nE4Tzc.png", PREMIUM | ANIMAL PLANET HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCefxHMCcZU6iy2kZSMKmCTQQjktVCiP-0aQVlRqhXyqY/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | COMEDY CENTRAL MX HD" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/d4b918182dbb2a38b113e8e44f5b826c.jpg", PREMIUM | COMEDY CENTRAL MX HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFci5lHOwaOj7bJrrT8BKJ3SN/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | COMEDY CENTRAL HD" group="PREMIUM HD (SPA)" logo="https://i.imgur.com/Hzjgysu.jpg", PREMIUM | COMEDY CENTRAL HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFcgRwEssa6ecEngnQcpUzTG6/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | DISTRITO COMEDIA" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/ad4dfea5d8af6c9755b416189e36359a.jpg", PREMIUM | DISTRITO COMEDIA
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFchKOnVrtYMFiwpdKfNOvXuk/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | DISCOVERY CHANNEL" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/78176d5ef6246c3706111f55e66fee85.jpg", PREMIUM | DISCOVERY CHANNEL
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCefxHMCcZU6iy2kZSMKmCTTEs4A5DmZhtvVfPvHNRFQD/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | DISCOVERY CHANNEL HD" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/78176d5ef6246c3706111f55e66fee85.jpg", PREMIUM | DISCOVERY CHANNEL HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCefxHMCcZU6iy2kZSMKmCTRpDauE9i-LXiBZT7bTX06Y/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | HGTV MX" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/8e3e9bc0cc70a19c3a4da6b8c7559c4f.png", PREMIUM | HGTV MX
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCefxHMCcZU6iy2kZSMKmCTQe9IDCUe0gvBSn0VpknAxf/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | DISCOVERY H&H" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/244049e8bfe02922a59b9e5ee7b1f08c.jpg", PREMIUM | DISCOVERY H&H
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCefxHMCcZU6iy2kZSMKmCTTT5KuPLaqn8s8QvQbQDWpD/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | DISCOVERY H&H HD" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/244049e8bfe02922a59b9e5ee7b1f08c.jpg", PREMIUM | DISCOVERY H&H HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCefxHMCcZU6iy2kZSMKmCTRjEK2d-eL49_3ABXhxeQGH/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | DISCOVERY ID MX HD" group="PREMIUM HD (SPA)" logo="https://www.directv.com/images/logos/channels/dark/large/802.png", PREMIUM | DISCOVERY ID MX HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCefxHMCcZU6iy2kZSMKmCTTTNwR80is9ZhzLg_gUiuvG/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | DISCOVERY SCIENCE HD" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/2b70a3a169da506e62146055542743ac.png", PREMIUM | DISCOVERY SCIENCE HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCefxHMCcZU6iy2kZSMKmCTTTiB8p7KLhtj4wyGtO73NR/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | DISCOVERY THEATER HD" group="PREMIUM HD (SPA)" logo="https://i.imgur.com/KDwEaQC.png", PREMIUM | DISCOVERY THEATER HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCbWKQobjRPji2iwresSsrrVW8lWqot9w6y2WrzKnGzls/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | Discovery TLC Latino HD" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/1e790de681d2a3919b330b54bd73f484.png", PREMIUM | Discovery TLC Latino HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCbWKQobjRPji2iwresSsrrXuqRHPO4NKzlsC0pvN2E16/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | DISCOVERY TURBO HD" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/21259d3ac1cb2eeab30053c037ca45de.png", PREMIUM | DISCOVERY TURBO HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCbWKQobjRPji2iwresSsrrUD7MpDl0FwtJvdw7xjj2j-/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | DISCOVERY WORLD FHD" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/f17d87c6cc9afaa652b307415035e605.png", PREMIUM | DISCOVERY WORLD FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCbWKQobjRPji2iwresSsrrVE15gohRQZAq1Xruy8jQ88/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | DISCOVERY WORLD HD" group="PREMIUM HD (SPA)" logo="https://i.imgur.com/ktwLOub.png", PREMIUM | DISCOVERY WORLD HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCbWKQobjRPji2iwresSsrrX2rLhXuCTqdzCUQee2bWWd/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | DISCOVERY CHANNEL LATINO" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/c3a60bde7004aa91422ee65adcec0049.png", PREMIUM | DISCOVERY CHANNEL LATINO
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCRWOtz8as0ikKbb2vfKokuce5BhGO9o6xpGHlnYV99GJ/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | HGTV LATINO" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/8e3e9bc0cc70a19c3a4da6b8c7559c4f.png", PREMIUM | HGTV LATINO
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCRWOtz8as0ikKbb2vfKokueIdDNhDfmCFp_nhv2ddHu5/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | DISCOVERY H&H LATINO HD" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/ab08420dee786b592b18db6a1e98dce9.png", PREMIUM | DISCOVERY H&H LATINO HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCRWOtz8as0ikKbb2vfKokudFcRkELtx_cv6SD0RY7EQ1/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | DISCOVERY SCIENCE LATINO FHD" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/6348e91364d3267068825165d9f1944b.PNG", PREMIUM | DISCOVERY SCIENCE LATINO FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCRWOtz8as0ikKbb2vfKokucC0oB7KP0ptXj15QbCT8vc/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | DISCOVERY TURBO LATINO FHD" group="PREMIUM HD (SPA)" logo="https://cdn2.admin-tudiscovery.com/sites/default/files/2018-12/TURBO-Logo-white_0.png", PREMIUM | DISCOVERY TURBO LATINO FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCRWOtz8as0ikKbb2vfKokucs_pBW7k2bj4f1mzC6uMSr/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | DISCOVERY THEATER LATINO FHD" group="PREMIUM HD (SPA)" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png", PREMIUM | DISCOVERY THEATER LATINO FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCRWOtz8as0ikKbb2vfKokudOWRb3pW5NiLDiws-2rY1t/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | DISCOVERY WORLD LATINO FHD" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/ad76b4d8336d84729b2eb3b3d40ac76a.png", PREMIUM | DISCOVERY WORLD LATINO FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCRWOtz8as0ikKbb2vfKokudfQwvxaE8sKQpeiFQiWBSi/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | Discovery Familia HD" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/17513f321e08509e9884812da36909f5.png", PREMIUM | Discovery Familia HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCe5hVAZ-w6MukFlUhwnD_EwzZ__R5kA1Id4vY-tzoVCM/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | Discovery TLC HD (MX)" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/d018146bd4b48997c18734748263ac09.png", PREMIUM | Discovery TLC HD (MX)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCRWOtz8as0ikKbb2vfKokucfmpc5-r7Mbpw9r0vnWAHI/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | Nat Geo (LAT) HD" group="PREMIUM HD (SPA)" logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png", PREMIUM | Nat Geo (LAT) HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCRWOtz8as0ikKbb2vfKokuewANegAMDN0DxuolMYqmTg/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | Nat Geo (MX) FHD" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/b8b539a2b810bd5628234e93d09b34cc.jpg", PREMIUM | Nat Geo (MX) FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCbUFARHmMyxJ2e1lpL6fg56oPWCYmflmGYMlugpRXTFd/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | Nat Geo Latino FHD" group="PREMIUM HD (SPA)" logo="https://i.imgur.com/vkMMBwQ.jpg", PREMIUM | Nat Geo Latino FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCbUFARHmMyxJ2e1lpL6fg57FrGEUTSb67jSGKin_Pbxw/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | Nat Geo Wild FHD" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/e350454e81edaf9665052f3a4931a3ee.jpg", PREMIUM | Nat Geo Wild FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCbUFARHmMyxJ2e1lpL6fg577AH0UR26vkGKJtgmM0Akl/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | LOVE NATURAL  HD" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/a04bc2b99b8f951e40ff9f7ea42cecf9.png", PREMIUM | LOVE NATURAL  HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCRWOtz8as0ikKbb2vfKokucizuFmH67eEBFQKzef7CIc/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | HISTORY CHANNEL FHD" group="PREMIUM HD (SPA)" logo="http://i.imgur.com/r9FPxQk.jpg", PREMIUM | HISTORY CHANNEL FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCbWKQobjRPji2iwresSsrrX-IZcVxWq_hwAuLzwG1bi3/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | History Channel FHD Latino" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/e69a9da7a7db36294eab3fd38c9dc5e2.png", PREMIUM | History Channel FHD Latino
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCRWOtz8as0ikKbb2vfKokufheN8hInSoyT6NRrVesZjD/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | H2 HD" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/4d5e5e69b4a1fb98399eb43903f44dda.jpg", PREMIUM | H2 HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCbWKQobjRPji2iwresSsrrWTHHY-aCFWUVF10UwbkRXj/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | STAR LIFE HD" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/d9dbc7534d3ba922af4bd96c9c3bc15a.png", PREMIUM | STAR LIFE HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFchkFYefuxrB5wgNqZZmiOhS/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | EL GOURMET FHD" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/28f4af6803a22e5e49aebe830565f48a.jpg", PREMIUM | EL GOURMET FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCbWKQobjRPji2iwresSsrrXqqBmYbiVI2tvYPOZmohHh/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | EL GOURMET LATINO" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/bada03590d64a33156dc35cf4ab48cbc.png", PREMIUM | EL GOURMET LATINO
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCRWOtz8as0ikKbb2vfKokufRuXBePmCyGXmZy5pV16ph/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | E! ENTERTAINMENT HD" group="PREMIUM HD (SPA)" logo="https://i.imgur.com/jRMbxv9.jpg", PREMIUM | E! ENTERTAINMENT HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFcgcjb0FBns1DAgVCn7KTm9G/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | GLITZ" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/ce1248e95776812b3495473dea7eb129.png", PREMIUM | GLITZ
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFchXZNudxPPMYvck-7USsytp/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | HOLA TV" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/82d3d0b0e74dc3b40ce4a15f416868bc.jpg", PREMIUM | HOLA TV
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFciRQSzGwWBZVwQD1uNoZsOj/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | LIFETIME HD" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/c74b796c793bf39d55bcbbc6d863f7d6.png", PREMIUM | LIFETIME HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFcjlEbfI3WDOBE3ednM4B645/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | MAS CHIC HD" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/3e710d3d87f878c6efb0dcdeb62ec9cf.jpg", PREMIUM | MAS CHIC HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFcjEtb5zPWpaOONPJ4DGAO-t/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | PASIONES HD" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/001461ac3fd5d66cd63d62cee3bd0249.jpg", PREMIUM | PASIONES HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFchYKnfrPrdMwQuW8eprn7DW/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | FILM & ARTS HD" group="PREMIUM HD (SPA)" logo="https://i.imgur.com/b0sfkBs.jpg", PREMIUM | FILM & ARTS HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFcj0OJOTUiuXIDK95h2YxcuV/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | SUNDANCE HD" group="PREMIUM HD (SPA)" logo="https://i.imgur.com/t5mFTWK.png", PREMIUM | SUNDANCE HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFchLAvQ5t-G2sYvND86Zs_uH/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | I SAT LATINO" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/a989b06083062509b5bef4912a5d300d.png", PREMIUM | I SAT LATINO
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCRWOtz8as0ikKbb2vfKokudGrUd08h5uIY-vsfCRs8-K/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | MAS CHIC LATINO HD" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/88ecdc05094880769432df2b186fd755.png", PREMIUM | MAS CHIC LATINO HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCRWOtz8as0ikKbb2vfKokudiZhBzpAAHYshPZGWy4nQs/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | Unicable Latino HD" group="PREMIUM HD (SPA)" logo="https://vignette.wikia.nocookie.net/doblaje/images/5/53/Unicable.png/revision/latest?cb=20160211074125&path-prefix=es", PREMIUM | Unicable Latino HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCRWOtz8as0ikKbb2vfKokuftpjZ1-l0UsXMr_JA5F5sv/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | SUN CHANNEL" group="PREMIUM HD (SPA)" logo="https://res06.noxgroup.com/noxinfluencer/youtube/avatar/600ba00f08a2bb1afa3fc304bf5a467d.png", PREMIUM | SUN CHANNEL
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCSoqc2gbhOY46HsQqWOt0rIkDUtDk67Vt5zW40rtzmJv/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | TruTV (MX) HD" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/afcb595942ec1f6bcc1ff786cf8b39dd.png", PREMIUM | TruTV (MX) HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCfuSPmaXmtNSBmdGJbAo-tlw5SVAsN2zRHFrbC2X0BtE/ts
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | National Geographic (L)" group="PREMIUM HD (SPA)" logo="http://visi4k.site:8080/images/b8b539a2b810bd5628234e93d09b34cc.jpg", PREMIUM | National Geographic (L)
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCa9Lf3FvJunYYsW3VpGIF-hS7bIgdrUFvaeUkqGiuCj6/ts
+#EXTINF:0 type="favorites" channelId="-1" name="USA Latino | Telemundo Internacional HD" group="USA LATINO" logo="http://visi4k.site:8080/images/dc3cc0ea368daa70cee50c8d2071f223.png", USA Latino | Telemundo Internacional HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCREa-oPiMDl33r96ipJhQ3uvpP_Zfheo__QEXJtXkEM5/ts
+#EXTINF:0 type="favorites" channelId="-1" name="USA Latino | Estrella TV HD" group="USA LATINO" logo="http://visi4k.site:8080/images/313ff18f4dadd13a270ee3618db61c9a.png", USA Latino | Estrella TV HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCXDQq4ig_cTmqfqm9e828emhA4yWVQr46Tjo9TJJF6M1/ts
+#EXTINF:0 type="favorites" channelId="-1" name="USA Latino | Antena 3 HD" group="USA LATINO" logo="http://visi4k.site:8080/images/100656bee63fd2b6e5f69768f2016a91.png", USA Latino | Antena 3 HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCa9Lf3FvJunYYsW3VpGIF-h1ZrVoGZ-hZk2yk3-EGNYn/ts
+#EXTINF:0 type="favorites" channelId="-1" name="USA Latino | El Gourmet SD" group="USA LATINO" logo="https://revistamomentos.co/wp-content/uploads/2017/02/Logo-EG-fondo-blanco-copia-1900x2009_c.png", USA Latino | El Gourmet SD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCa9Lf3FvJunYYsW3VpGIF-ggkt6guoFyYzwfZDWnRUZk/ts
+#EXTINF:0 type="favorites" channelId="-1" name="USA Latino | Galavision HD" group="USA LATINO" logo="http://visi4k.site:8080/images/a8dbc05b48c1797ad72214e9dbddba91.png", USA Latino | Galavision HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flXiW702fU7ZZAZPf9O01Mb1/ts
+#EXTINF:0 type="favorites" channelId="-1" name="USA Latino | Unimas HD" group="USA LATINO" logo="http://visi4k.site:8080/images/4d7f4d350819589878ef1a22c4e9e800.png", USA Latino | Unimas HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flU5LBx5pPcHJQDBJ5e9BqpM/ts
+#EXTINF:0 type="favorites" channelId="-1" name="USA Latino | MegaTV HD" group="USA LATINO" logo="http://visi4k.site:8080/images/634a4f0dd8bad839e947cee895072c5e.png", USA Latino | MegaTV HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVXGmHQ_6el1YjRK2QF5IJXPF067UO5mDuBjS-uTH-27/ts
+#EXTINF:0 type="favorites" channelId="-1" name="USA Latino | Telemundo Boston HD" group="USA LATINO" logo="http://visi4k.site:8080/images/735833c895871ce0a33ce8277efd7cea.png", USA Latino | Telemundo Boston HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCXDQq4ig_cTmqfqm9e828elqB9U7BwZgigEwpuZLtPbg/ts
+#EXTINF:0 type="favorites" channelId="-1" name="USA Latino | Telemundo Los Angeles HD" group="USA LATINO" logo="http://visi4k.site:8080/images/5c82aa600b8e2beffe6ad104c0594e6d.png", USA Latino | Telemundo Los Angeles HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCXVOzD5MZz5fQWbJ64TvHPUagkMDFx63geo2Z2rbiw_0/ts
+#EXTINF:0 type="favorites" channelId="-1" name="USA Latino | Telemundo Miami HD" group="USA LATINO" logo="http://visi4k.site:8080/images/d4549471716551f5fba33144b5b7a17e.png", USA Latino | Telemundo Miami HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCRh0XU3Cq3u2Z_ohClY-WyqH3JwjTDGi4IPiqbCXqkD_/ts
+#EXTINF:0 type="favorites" channelId="-1" name="USA Latino | Telemundo Las Vegas HD" group="USA LATINO" logo="http://visi4k.site:8080/images/d04997271670b5e9473f5536a2602ec3.png", USA Latino | Telemundo Las Vegas HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCXVOzD5MZz5fQWbJ64TvHPWxQG45XBNGjFmGzWygojDC/ts
+#EXTINF:0 type="favorites" channelId="-1" name="USA Latino | TLNovelas Univision HD" group="USA LATINO" logo="http://visi4k.site:8080/images/0Vp4BL4Qahy7r7Pttx-uKGtNCnY6SC4r1LbYQxpuLUyoDD25eq2EFDwMa6GJ58ulMITMQNqhcor6oKeQKQ3WBs-QUfk17dApDylsWRMVJn-Tf60FUq6lGAiJM6bOwf5UDcNkoflbsfLaCo9RsKl5NFylUQ7jtUhZSBUqOIMLkiU.png", USA Latino | TLNovelas Univision HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFcj56xG_h5XlF_MPcIXsquFn/ts
+#EXTINF:0 type="favorites" channelId="-1" name="USA Latino | TUDN HD" group="USA LATINO" logo="http://visi4k.site:8080/images/349c20a2615a5dd392585d09859973c7.png", USA Latino | TUDN HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCWt2AOWOUh94wCIdtb1yU-hXVMOTRj8ec3MIgN03uw-p/ts
+#EXTINF:0 type="favorites" channelId="-1" name="USA Latino | Univision Chicago HD" group="USA LATINO" logo="http://visi4k.site:8080/images/26da7297c970ad6dfa840608490a774b.png", USA Latino | Univision Chicago HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCWt2AOWOUh94wCIdtb1yU-hPMfiF2X8AIUjX4hnQkDj9/ts
+#EXTINF:0 type="favorites" channelId="-1" name="USA Latino | Univision Dallas HD" group="USA LATINO" logo="http://visi4k.site:8080/images/b2ec57cd41ee95d7bc715a07c83e877d.png", USA Latino | Univision Dallas HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCWH0yMx2D8JOzRfQAC3uJmDLvjpDg5X8l_Nr2_XtmYb4/ts
+#EXTINF:0 type="favorites" channelId="-1" name="USA Latino | Univision Los Angeles HD" group="USA LATINO" logo="http://visi4k.site:8080/images/56eae1668ac79a8944b835d3c14fbeb6.png", USA Latino | Univision Los Angeles HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCWt2AOWOUh94wCIdtb1yU-gmw-GS5drExg7EUdAa9oim/ts
+#EXTINF:0 type="favorites" channelId="-1" name="USA Latino | Pasiones HD" group="USA LATINO" logo="http://visi4k.site:8080/images/30f77f1c137320415419ea9816e6ec94.png", USA Latino | Pasiones HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCZ9xXkic0m4TtMkOHmDWORLsqJdjA2nD9HeBF_9DvI0d/ts
+#EXTINF:0 type="favorites" channelId="-1" name="USA Latino | Univision Houston HD" group="USA LATINO" logo="http://visi4k.site:8080/images/176f874347d54a04c1d8be7dffc7755f.png", USA Latino | Univision Houston HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCZ9xXkic0m4TtMkOHmDWORLsCipGXXOi4cf4Xg1IXwFb/ts
+#EXTINF:0 type="favorites" channelId="-1" name="USA Latino | GALAVISION EAST" group="USA LATINO" logo="http://visi4k.site:8080/images/1c21f31fad3965be3ac714c66a019c9c.png", USA Latino | GALAVISION EAST
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVvmhyNqx_WhxP8-EgEcYLX2tijabJhZ7MpfVgJwT48q/ts
+#EXTINF:0 type="favorites" channelId="-1" name="USA Latino | GALAVISION WEST" group="USA LATINO" logo="http://visi4k.site:8080/images/1c21f31fad3965be3ac714c66a019c9c.png", USA Latino | GALAVISION WEST
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVvmhyNqx_WhxP8-EgEcYLUxkwupaGYvik0Jxlr15Drw/ts
+#EXTINF:0 type="favorites" channelId="-1" name="USA Latino | CNN EN ESPAñOL" group="USA LATINO" logo="http://visi4k.site:8080/images/c818291800b863839bf403836dadb411.png", USA Latino | CNN EN ESPAñOL
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCa9Lf3FvJunYYsW3VpGIF-hfI55iN5e5xcxRED408jAh/ts
+#EXTINF:0 type="favorites" channelId="-1" name="USA Latino | THE WEATHER CHANNEL ESPAñOL" group="USA LATINO" logo="http://visi4k.site:8080/images/41f500431d4f421f6b5029ab77e80f1f.png", USA Latino | THE WEATHER CHANNEL ESPAñOL
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCa9Lf3FvJunYYsW3VpGIF-hftKsPDFj8z7R6KmAoQOcf/ts
+#EXTINF:0 type="favorites" channelId="-1" name="USA Latino | TELEHIT" group="USA LATINO" logo="http://visi4k.site:8080/images/b40a8df392adb221df45cd4a12597852.png", USA Latino | TELEHIT
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCa9Lf3FvJunYYsW3VpGIF-hwWCFldzFnw-oIM8FWxVyi/ts
+#EXTINF:0 type="favorites" channelId="-1" name="USA Latino | TELEHIT MúSICA" group="USA LATINO" logo="http://visi4k.site:8080/images/9453c60a7767d752f333db0894b0d50f.png", USA Latino | TELEHIT MúSICA
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCa9Lf3FvJunYYsW3VpGIF-hwqHGDMHIzwzTkhou3r9nb/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | A+ HD" group="MEXICO" logo="http://visi4k.site:8080/images/bccc1888380a92050c42879e9af56a56.png", MEXICO | A+ HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUI5RykDJovgk_b5RxZJPD7imdv3Eo62H-veCEc5Zb9d/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | ADN40 HD" group="MEXICO" logo="https://i.imgur.com/8xwdzeJ.png", MEXICO | ADN40 HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCZ9xXkic0m4TtMkOHmDWORIjNgGkKgVdo2lsOJEvsvxA/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | ADN40 UHD" group="MEXICO" logo="https://i.imgur.com/8xwdzeJ.png", MEXICO | ADN40 UHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flVK3OdG9_L4GMHZhFzLJ8PN/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | AZ CLIC" group="MEXICO" logo="http://visi4k.site:8080/images/0945eecc56b27971232376c1869b49ba.png", MEXICO | AZ CLIC
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCdDCmmTu9OzxJd2x4NrMyKxXUzLWYdJ3BT00eMoWZ589/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | AZ CORAZON HD" group="MEXICO" logo="http://visi4k.site:8080/images/5258cf4009ee854de85a9a2792f98a59.png", MEXICO | AZ CORAZON HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCdDCmmTu9OzxJd2x4NrMyKx58bwhw4AOt5f2jL0g1TCe/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | AZ MUNDO FHD" group="MEXICO" logo="http://visi4k.site:8080/images/b2b1be2aa72811c86daf9679bc2dde1b.png", MEXICO | AZ MUNDO FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCdDCmmTu9OzxJd2x4NrMyKz-LiRt9r2L7SF6QgpTka6s/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | AZTECA 7 FHD" group="MEXICO" logo="http://visi4k.site:8080/images/f99eecf4f15ca4fed9787ffff2358303.png", MEXICO | AZTECA 7 FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCdDCmmTu9OzxJd2x4NrMyKx4UiDLOPGgJFu7A5hCKQSr/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | AZTECA 7 HD" group="MEXICO" logo="http://visi4k.site:8080/images/f99eecf4f15ca4fed9787ffff2358303.png", MEXICO | AZTECA 7 HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCdDCmmTu9OzxJd2x4NrMyKz5IDrGTNR2v0xOMEDHt_dr/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | AZTECA UNO FHD" group="MEXICO" logo="http://visi4k.site:8080/images/d39a1f1efe0710bbb5f3dcaa3b42e27b.png", MEXICO | AZTECA UNO FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCdDCmmTu9OzxJd2x4NrMyKyZqJqMbFLj0G2_qPrnSDxz/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | AZTECA UNO HD" group="MEXICO" logo="http://visi4k.site:8080/images/d39a1f1efe0710bbb5f3dcaa3b42e27b.png", MEXICO | AZTECA UNO HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCdDCmmTu9OzxJd2x4NrMyKxiNVeO196iXL6be9pR1E6Q/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | CANAL 4" group="MEXICO" logo="https://i.imgur.com/Dp4xZ9w.png", MEXICO | CANAL 4
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flXaRsTQTTutBuuIenJpBzi1/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | CANAL 5" group="MEXICO" logo="http://visi4k.site:8080/images/65e5da5e69a8464074804ea82d27a500.png", MEXICO | CANAL 5
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flUZSzICFZarPZQB5j4WBf94/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | CANAL 26 FHD" group="MEXICO" logo="https://i.imgur.com/MqnNweh.png", MEXICO | CANAL 26 FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flVndLBYLYdm-IV5bmDIewsf/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | CANAL 5 FHD" group="MEXICO" logo="http://visi4k.site:8080/images/bdfbc2ca05e09e426c8822d528cdb666.png", MEXICO | CANAL 5 FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVa050dJyQwvSAgmpXlyskZnJI1X1KUwTAaZrrSdiX9R/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | CANAL NUEVE" group="MEXICO" logo="http://visi4k.site:8080/images/1e3d419b2d75726e90c979af1caab132.jpg", MEXICO | CANAL NUEVE
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVa050dJyQwvSAgmpXlyskYOYMPd9xRvwhLjm6CSHMyF/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | CANAL ONCE" group="MEXICO" logo="https://i.imgur.com/QiyryrU.jpg", MEXICO | CANAL ONCE
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVa050dJyQwvSAgmpXlyskZkf6FRAOt_Fzs69o6NBx7C/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | GALAVISION HD" group="MEXICO" logo="https://i.imgur.com/Pv0aFGK.jpg", MEXICO | GALAVISION HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVa050dJyQwvSAgmpXlyskakpl26QK_XK6-rSEJbYHqC/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | HOLA TV SD" group="MEXICO" logo="https://i.imgur.com/mJlevrJ.jpg", MEXICO | HOLA TV SD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flUcSxMefnmNN9YznD5_jKEz/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | IMAGEN HD" group="MEXICO" logo="https://i.imgur.com/uqGTRAP.jpg", MEXICO | IMAGEN HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVa050dJyQwvSAgmpXlyskbUFLKUvuOG4jSuJynjwYPi/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | INGENIO TV SD" group="MEXICO" logo="https://i.imgur.com/1Ti8A3F.jpg", MEXICO | INGENIO TV SD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flXcaClezVwd_nsdl2Rw3ATE/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | ITV SD" group="MEXICO" logo="https://i.imgur.com/0E50vv9.png", MEXICO | ITV SD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flVwGGCEHUr1V9PpjwUe2mlH/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | LAS ESTRELLAS FHD" group="MEXICO" logo="http://visi4k.site:8080/images/a757bee4fbdf8429d07deb33358d640f.jpg", MEXICO | LAS ESTRELLAS FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVXGmHQ_6el1YjRK2QF5IJWVuo7ig1qRJnn8PgxwnE9j/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | LAS ESTRELLAS HD" group="MEXICO" logo="http://visi4k.site:8080/images/a757bee4fbdf8429d07deb33358d640f.jpg", MEXICO | LAS ESTRELLAS HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVXGmHQ_6el1YjRK2QF5IJV_8XteXaMoGMYczXapH8NX/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | MULTIMEDIOS" group="MEXICO" logo="http://visi4k.site:8080/images/95d76defe8fd12727e6faa3b17b99d58.jpg", MEXICO | MULTIMEDIOS
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVXGmHQ_6el1YjRK2QF5IJVtJ2zBz4kK55Z3SgnMIA2Q/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | MULTIMEDIOS PLUS HD" group="MEXICO" logo="http://visi4k.site:8080/images/95d76defe8fd12727e6faa3b17b99d58.jpg", MEXICO | MULTIMEDIOS PLUS HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVXGmHQ_6el1YjRK2QF5IJW9yKAf5szURwxa3LI-aP9t/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | SAT SD" group="MEXICO" logo="https://i.imgur.com/Oha2Qxr.png", MEXICO | SAT SD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flXqle09t34G-PhJFzljPdd5/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | TELEVISA MONTERREY" group="MEXICO" logo="https://i.imgur.com/siL1lvr.png", MEXICO | TELEVISA MONTERREY
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVXGmHQ_6el1YjRK2QF5IJWku1W__PXBCno3OHcaoSnB/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | UNICABLE FHD" group="MEXICO" logo="http://visi4k.site:8080/images/8169db391263359ae99f044485dd5dd1.png", MEXICO | UNICABLE FHD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCXd0QDk_SsuQ2eD7BYnhxAGo8F7BZd4351fhwvolELH7/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | TELENOVELAS HD" group="MEXICO" logo="http://visi4k.site:8080/images/1fa817c22fbdccaa0cc1ab0308488527.png", MEXICO | TELENOVELAS HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCRw0KTNqfswMN6LBpi4kKQPJYCb9VFTnd26t8RYzGF0r/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | TELENOVELAS SD" group="MEXICO" logo="http://visi4k.site:8080/images/1fa817c22fbdccaa0cc1ab0308488527.png", MEXICO | TELENOVELAS SD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCRw0KTNqfswMN6LBpi4kKQPevy8d0YerTR9zNH8SN4GQ/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | FOOD NETWORK HD" group="MEXICO" logo="http://visi4k.site:8080/images/eafa0f1755b0ad52226ec50b37cdb0bd.png", MEXICO | FOOD NETWORK HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCZ9xXkic0m4TtMkOHmDWORLYe9X2JYG-RXwzYtwhE7zy/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO |  BITME" group="MEXICO" logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/BitMelogo.png", MEXICO |  BITME
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCQR2QD2dD6J5n5izQotJtI4SxMgOTWfDXO9gQse03ekn/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | CANCUN CANAL 10" group="MEXICO" logo="https://www.canal10.tv/assets/Logo2.png", MEXICO | CANCUN CANAL 10
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCV0jBRYlG8DInbpstMMPiyY9xgyD2XVNbr1wAA355Vyn/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | BANDAMAX" group="MEXICO" logo="https://i.imgur.com/Hdq0ARa.png", MEXICO | BANDAMAX
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCW8KuODNmfJmkuhD-ObtOte7i1B0XRLSZy0bl8SivkG2/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | Excelsior TV HD" group="MEXICO" logo="https://i.pinimg.com/originals/26/1e/64/261e648123e1ebfc069b1fdcc1861709.png", MEXICO | Excelsior TV HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCXVOzD5MZz5fQWbJ64TvHPX16CZEyuB5Zy6IqYLs5fbN/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | Excelsior TV SD" group="MEXICO" logo="https://i.pinimg.com/originals/26/1e/64/261e648123e1ebfc069b1fdcc1861709.png", MEXICO | Excelsior TV SD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCXVOzD5MZz5fQWbJ64TvHPWLSEwHVKaG_jz8DcAER6R4/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | Milenio TV HD" group="MEXICO" logo="https://i.imgur.com/KFSjmoh.png", MEXICO | Milenio TV HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCQT6jhidjsIWReKWePeEZaeC3RRHqL2ako7BN73ex_k1/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | TVO HD" group="MEXICO" logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/TVO-Televisi%C3%B3n-Oriental-Canal-23-en-vivo-Online.png?fit=1920%2C1080", MEXICO | TVO HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCd4CFTYVyxetA1ld6mo870kCK7AsXi7wxm9IQn1gYD-w/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | Canal 5" group="MEXICO" logo="http://visi4k.site:8080/images/e1b032ef88a4c5b069e5373dcb94eae3.jpg", MEXICO | Canal 5
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCd4CFTYVyxetA1ld6mo870mCe1PZOHeA6d4qa4W0VEe7/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | Foro TV" group="MEXICO" logo="http://playlistone.site:8080/images/6015dffff38b4989354eae57eb5f1c6c.png", MEXICO | Foro TV
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCd4CFTYVyxetA1ld6mo870kaj32KipBYqrxFK4csXh5o/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | Azteca 7" group="MEXICO" logo="http://visi4k.site:8080/images/07046ccb6d37ff3686ed370fc60ae993.jpg", MEXICO | Azteca 7
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCd4CFTYVyxetA1ld6mo870kWtvnUi5qTvIy0gJpCyEtj/ts
+#EXTINF:0 type="favorites" channelId="1957" name="Gala tv" group="MEXICO" logo="http://playlistone.site:8080/images/138b49fd2b0a560a1cedebe9b1dd8a2a.png", Gala tv
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCd4CFTYVyxetA1ld6mo870la1UejEUG6-eAnBFOLOPdU/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | Once TV" group="MEXICO" logo="http://playlistone.site:8080/images/138621072e01da33afc8c06151e7de98.jpg", MEXICO | Once TV
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCd4CFTYVyxetA1ld6mo870mTBZhy2Up0GAbQQsdtSUM6/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | Azteca 13" group="MEXICO" logo="http://playlistone.site:8080/images/2d1909b6aad687b7a3b6cd148a5b6db2.jpg", MEXICO | Azteca 13
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCd4CFTYVyxetA1ld6mo870lhvI8Ln4qG23qY-FYcWtgW/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | Imagentv" group="MEXICO" logo="http://playlistone.site:8080/images/b5fc0e0aa250eea9e18a0490f90f752d.jpg", MEXICO | Imagentv
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCd4CFTYVyxetA1ld6mo870l6o-o_CO8AxCx3ldcLfrFN/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | Milenio TV" group="MEXICO" logo="http://playlistone.site:8080/images/3e31428db4c7fddf679f31198345d0c1.jpg", MEXICO | Milenio TV
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCd4CFTYVyxetA1ld6mo870nNiU5yApip6wVCD_QrAOYB/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | Canal 22" group="MEXICO" logo="http://playlistone.site:8080/images/8a3a2884038f7d2b59157c54b62cfe8e.jpg", MEXICO | Canal 22
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCd4CFTYVyxetA1ld6mo870koWKdIxPQZdh3KCfT7VTMu/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | Canal 22-2" group="MEXICO" logo="http://playlistone.site:8080/images/bcbe3365e6ac95ea2c0343a2395834dd.jpg", MEXICO | Canal 22-2
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCd4CFTYVyxetA1ld6mo870lOFCaZhNfAJIXw50851zCU/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | Canal del Congreso" group="MEXICO" logo="http://playlistone.site:8080/images/d7a78c79f3cf4bdc68b3e58a7f76a1f8.jpg", MEXICO | Canal del Congreso
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCd4CFTYVyxetA1ld6mo870lCb8upxU880YUy2B3KZirs/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | Canal 52MX" group="MEXICO" logo="http://playlistone.site:8080/images/ad2983f3127aa083dd9cccd1cee5fdb1.jpg", MEXICO | Canal 52MX
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCd4CFTYVyxetA1ld6mo870kV36dCOi_6hUBADCOY8BFR/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | Hola" group="MEXICO" logo="http://visi4k.site:8080/images/a21633146c9369f33eec78c1f34822cf.jpg", MEXICO | Hola
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCd4CFTYVyxetA1ld6mo870nZ8kDaYmAxx75Af_uf2GIJ/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | TVC" group="MEXICO" logo="http://playlistone.site:8080/images/729c37a1d3319ee21991227b1f84c687.jpg", MEXICO | TVC
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCd4CFTYVyxetA1ld6mo870lmbhlh9ST6-qu0ZLBT-En-/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | Mexicanal" group="MEXICO" logo="http://visi4k.site:8080/images/775673eeecc392f8492933753d477767.png", MEXICO | Mexicanal
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCdDCmmTu9OzxJd2x4NrMyKxzu4fiqoeNBraZKRHUCa2e/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | Telemax" group="MEXICO" logo="https://www.infocajeme.com/fotos/39833-20180222-3.jpg", MEXICO | Telemax
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFciLEB2AO9DG1fG6r_v8XYbx/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | TELEHIT PLUS HD" group="MEXICO" logo="https://forounivers.com/uploads/monthly_2017_10/large.telehit-plus.png.08e997ae986bc6ef31c0c04b58f37561.png", MEXICO | TELEHIT PLUS HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFchmUXn1RdhYzCE_aCNPftBN/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | TELEHIT PLUS SD" group="MEXICO" logo="https://forounivers.com/uploads/monthly_2017_10/large.telehit-plus.png.08e997ae986bc6ef31c0c04b58f37561.png", MEXICO | TELEHIT PLUS SD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFchX6GfgHVfSz_wRW7Av0vv6/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MEXICO | ONCE NIÑOS HD" group="MEXICO" logo="https://onceninasyninos.tv/wp-content/uploads/2020/01/cropped-Logo_Transparencia_legales.png-4.png", MEXICO | ONCE NIÑOS HD
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCahG-MEBK0fpvCHvpeEyFchuhM2woRfaIExMj8QJtuZw/ts
+#EXTINF:0 type="favorites" channelId="-1" name="Mexico | Cine Estelar" group="MEXICO" logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Cine_Estelar.png/revision/latest?cb=20100622201645", Mexico | Cine Estelar
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCUrzZ033G9PaYws8ILk4flUhzNHmMW1KPHw5hyFpWEIm/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 02" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 02
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhWvKmqQeSbUi6I2FEurg2xL/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 03" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 03
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhWMW8sLikQidM3cqDOHAsfN/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 04" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 04
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhVUnlAndZS-DuERuv6gsHDE/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 05" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 05
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhUFuR3S0uzOQnLj6JGLTnW4/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 06" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 06
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhVbICI2O1vZUSMKP-arSLpY/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 07" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 07
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhU2h_iIqYnCCfwSnlPAIpdX/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 08" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 08
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhXyWEpFW1PlJhhoyti2teOO/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 09" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 09
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhUz_Xvjd86mFZolffjypJRw/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 10" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 10
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhUz8PCo5jMkRhrK78eRfzTI/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 11" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 11
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhW1c0lRkKUArjDo6-x-SLxX/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 12" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 12
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhWisGpW5PcObIBepxHf5XcS/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 13" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 13
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhWdt5NCq-sj3_gq-OikRRPo/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 14" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 14
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhWzthW9tDgj7i6GhOdPPS8d/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 15" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 15
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhUnu9kxjFwsiBUw-SgYw1Zf/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 16" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 16
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhWI85sM3v3bc_RTVGzFeozc/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 17" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 17
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhVh7fJQU6wkXF0wHGTWMXv8/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 18" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 18
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhW_kdRbQmS0EDH9Uo1KhcTl/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 19" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 19
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhV8QFqYyuujkIjIpdr46YQo/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 20" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 20
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhUOkNge4CZBiwgGctVKy14N/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 21" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 21
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhWHjYG77oOA3FqmBZDVzvkb/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 22" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 22
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhUl9iW4PBcQtTw7xBWKSENR/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 23" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 23
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhXRMWXJgLHDVY148IniR-oU/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 24" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 24
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhVxW-miwHTcqljbpzTV5ecC/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 25" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 25
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhUVWAQCcWWd5FUwPGJJ9bWs/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 26" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 26
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhX9gRp8dWhRx8HP33PpcZX3/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 27" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 27
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhX1wFZnVtpWwkRehfuGx7M2/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 29" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 29
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhX1NIADyW0tC4pb6RGYjy9t/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 30" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 30
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhXqxitDJ5fpgTdWZeZrgZGu/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 31" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 31
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhXqdpLkI7H6A0-gAZQrT5Ac/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 32" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 32
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhXsz9B0jikdg-4Zaaa7yOFR/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 33" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 33
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhVpnuyzXwrqI0DhFu_C_KBb/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 34" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 34
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhU04_Uhg8CKe91pOJfC5Xd6/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 35" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 35
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhXPxDTgAhEenSEdQDoKrbgU/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 36" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 36
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhU_8ZBfafNH-ZmI9dXkDdI-/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 37" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 37
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhUFW5pibIAtBYpjUVjDnDZX/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 38" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 38
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCYy-YbytTOLTJtYGQp_sqwbQlr63VgPsYCf6_ih1li3S/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 39" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 39
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCYy-YbytTOLTJtYGQp_sqwbj5uOTEXPQY1Az7uI7dePU/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 40" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 40
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCYy-YbytTOLTJtYGQp_sqwaynu0lTMF7ZT2grV9TpTIu/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 41" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 41
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCYy-YbytTOLTJtYGQp_sqwaw9ABVkjX-UUvysxyFJZyG/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 42" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 42
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCYy-YbytTOLTJtYGQp_sqwYqZXvV5RH22KX5hq1bK_04/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 43" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 43
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCYy-YbytTOLTJtYGQp_sqwaSip9chupkH1og_ReRXKdI/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 44" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 44
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCYy-YbytTOLTJtYGQp_sqwb--Snc0LjaPgP2MtLV_F1Y/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 45" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 45
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCYy-YbytTOLTJtYGQp_sqwZzeNoQ8NfRR7u0sJIJBtcg/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 46" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 46
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCYy-YbytTOLTJtYGQp_sqwbTNZYUR_ehmkMeMfUL9NJ6/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 47" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 47
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCYy-YbytTOLTJtYGQp_sqwY1apdcG5V0Cd2Y8pmeMah7/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 48" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 48
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCYy-YbytTOLTJtYGQp_sqwZNwjZPNaGhxopZBfMSRc6I/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 49" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 49
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCYy-YbytTOLTJtYGQp_sqwYqw2Pn40UGkHfUydxhknny/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 50" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 50
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCYy-YbytTOLTJtYGQp_sqwYmXO2wcNp_-GxMueLTGsOq/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 51" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 51
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCYy-YbytTOLTJtYGQp_sqwYAHdD2JtLgZ_CSxqOO2v9_/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 52" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 52
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCYy-YbytTOLTJtYGQp_sqwafl2CP_LsBK1PDFmHU0QbB/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 53" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 53
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCYy-YbytTOLTJtYGQp_sqwZkkmBw-AxTDdQ7htVve7M_/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 54" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 54
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCYy-YbytTOLTJtYGQp_sqwbqDVlK0cBpXDUyyESqpRo-/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 56" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 56
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCYy-YbytTOLTJtYGQp_sqwa3u7vVaNYxbNaTvd-3bUUN/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 57" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 57
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCYy-YbytTOLTJtYGQp_sqwbNevdTbcGLt0-PXthTcwDw/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 58" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 58
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCYy-YbytTOLTJtYGQp_sqwYJR-PzkN-xGUl71j3pwAK5/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 59" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 59
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCYy-YbytTOLTJtYGQp_sqwYJmwqshVaUrQrTMvQIX-PH/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 60" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 60
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCYy-YbytTOLTJtYGQp_sqwac2MUjlVQ8sxu8dsYq79k2/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 01" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 01
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhVWyAzZQphiUDYktW4B3_es/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE |Cinema 28" group="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)" logo="http://visi4k.site:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg", CINE |Cinema 28
+http://megaeb.xyz:8080/play/QRMiyFNbf4U9Fi6Rug_SCVRpZy09o33vBiWOEnxtXhUB3JwpGC_tgzYT_EAu_zLl/ts
